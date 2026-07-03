@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Tábuas de Enchidos Artesanais</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tábuas de Enchidos Artesanais</h1>
+    <nav>
+      <a href="#sobre">Sobre</a>
+      <a href="#produtos">Tábuas</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <section id="sobre">
+    <h2>Sobre nós</h2>
+    <p>Produzimos tábuas de enchidos artesanais com produtos selecionados da região.</p>
+  </section>
+
+  <section id="produtos">
+    <h2>Nossas tábuas</h2>
+    <div class="grid">
+      <div class="card">
+        <img src="img/tabua-classica.jpg" alt="Tábua clássica">
+        <h3>Tábua Clássica</h3>
+        <p>Seleção de chouriço, salpicão e presunto.</p>
+        <span class="preco
